@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DesafioCuatro</string>
+    <string name="sinfoto">SIN FOTO</string>
+    <string name="shareok">ShrareOk</string>
+    <string name="webok">Web Ok</string>
+    <string name="share">SHARE</string>
+    <string name="todo">TODO</string>
+</resources>
